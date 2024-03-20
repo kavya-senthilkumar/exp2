@@ -47,11 +47,23 @@ body {
 
 .profile-picture {
   width: 150px;
+}
+.profile-picture {
   height: 150px;
+}
+.profile-picture {
   border-radius: 50%;
+}
+.profile-picture {
   margin-bottom: 20px;
+}
+.profile-picture {
   border: 3px;
+}
+.profile-picture {
   border-style: solid;
+}
+.profile-picture {
   border-color: black;
 }
 
@@ -61,10 +73,20 @@ body {
 
 .menu a {
   transition: color 0.3s ease;
+}
+.menu a {
   text-decoration: none;
+}
+.menu a {
   color: #333;
+}
+.menu a {
   font-weight: bold;
+}
+.menu a {
   display: block;
+}
+.menu a {
   margin-bottom: 10px;
 }
 
