@@ -14,16 +14,30 @@ body {
 }
 .left {
   align-self: center;
+}
+.left{
   text-align: center;
+}
+.left{
   flex: 0 0 20%;
+}
+.left{
   left: 0;
+}
+.left{
   background-color: #0991f1;
+}
+.left{
   width: 20%;
 }
 
 .right {
   right: 0;
+}
+.right {
   background-color: #dae3e88f;
+}
+.right {
   width: 80%;
 }
 
